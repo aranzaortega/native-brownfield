@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.NativeBrownfield" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#1976D2</item>
+        <item name="colorPrimaryVariant">#0D47A1</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#003366</item>
+        <item name="colorSecondaryVariant">#001F3F</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+    </style>
+</resources>

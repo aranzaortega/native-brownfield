@@ -1,0 +1,15 @@
+# Node & Expo
+node_modules/
+.expo/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Android
+.gradle/
+build/
+app/build/
+*.iml
+.idea/workspace.xml
+.idea/caches/
+.DS_Store
